@@ -12,7 +12,6 @@
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40"/>
       <img src="https://portswigger.net/favicon.ico" alt="Burp Suite" width="40" height="40">
   <img src="https://www.wireshark.org/favicon.ico" alt="Wireshark" width="40" height="40">
-  <img src="https://www.tenable.com/favicon.ico" alt="Nessus" width="40" height="40">
   <img src="https://github.githubassets.com/favicons/favicon.png" alt="Hydra (THC-Hydra)" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
