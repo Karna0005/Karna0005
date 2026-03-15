@@ -34,9 +34,7 @@
     
  </p>
 
-## TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5628904)](https://tryhackme.com/p/5628904)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karna0005&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
