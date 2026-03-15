@@ -34,6 +34,9 @@
     
  </p>
 
+## TryHackMe Profile
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5628904.png)](https://tryhackme.com/p/5628904)
  
 
 # 📊 GitHub Stats:
