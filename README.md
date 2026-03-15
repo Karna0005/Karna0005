@@ -36,8 +36,7 @@
 
 ## TryHackMe Profile
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/5628904.png)](https://tryhackme.com/p/5628904)
- 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/skarna1005.png)](https://tryhackme.com/p/skarna1005) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Karna0005&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
