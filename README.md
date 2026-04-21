@@ -8,7 +8,7 @@
 
     
 # 🖥️ Technical Skills: 
-<p>
+<div>
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali linux" width="40" height="40"/>
       <img src="https://portswigger.net/favicon.ico" alt="Burp Suite" width="40" height="40">
   <img src="https://www.wireshark.org/favicon.ico" alt="Wireshark" width="40" height="40">
@@ -32,7 +32,7 @@
   
   
     
- </p>
+ </div>
 
 
 
