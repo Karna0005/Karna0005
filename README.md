@@ -67,7 +67,6 @@
 </p>
 
 
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Karna0005.Karna0005.svg)
 
 
 
